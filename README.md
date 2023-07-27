@@ -1,6 +1,6 @@
 # MY BLOG
 
-> 📚👉[Anong o](https://imanong.link/)
+> 📚👉[Anong o](https://www.anong.link/)
 
 ## 些许闲话
 
