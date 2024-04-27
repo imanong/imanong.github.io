@@ -1,0 +1,5 @@
+/* 查出高亮代码块的border */
+
+code {
+    border: none;
+}
