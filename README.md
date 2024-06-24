@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://blog.anong.top/">
-        <img src="https://raw.githubusercontent.com/imanong/imanong.github.io/master/images/anong.svg" width="100" height="100"/>
+        <img src="images/anong.svg" width="100" height="100"/>
     </a>
     <br>
     <img alt="Static Badge" src="https://img.shields.io/badge/Blog-Hexo-009999?style=flat">
