@@ -1,5 +1,10 @@
+:root {
+    /* --base-font-family: "LXGW WenKai TC", cursive; */
+    /* --base-font-size: 16px; */
+    /* --base-font-weight: 400;
+    --base-font-style: normal; */
+}
 /* 查出高亮代码块的border */
-
 code {
     border: none;
 }
